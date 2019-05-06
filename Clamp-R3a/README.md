@@ -4,3 +4,5 @@ with a slightly older version of "dust-collector-top-r3a" - but this version has
 
 Woudl love to hear your results if you make this - ping me on Twitter https://twitter.com/JeremySCook
 if you like!
+
+Also, flip the STLs when setting up the print to avoid the need for supports.
