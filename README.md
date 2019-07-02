@@ -6,6 +6,7 @@ Attachment meant for use with a small shop vac is also available, and if you nee
 Uses 12mm magnets to hook base and clamp together, and 10-24 screws for clamp and ring attachments. Buttonhead screws are recommended. 
 
 Version 1 build video: https://www.youtube.com/watch?v=WIhFcK5mLU0
+
 Versioln 2 w/ No clamps: https://www.youtube.com/watch?v=BHew18YmPYI
 
 Files available for non-commercial use, for other licensing arrangements, please get in touch.
