@@ -7,7 +7,7 @@ Uses 12mm magnets to hook base and clamp together, and 10-24 screws for clamp an
 
 Version 1 build video: https://www.youtube.com/watch?v=WIhFcK5mLU0
 
-Versioln 2 w/ No clamps: https://www.youtube.com/watch?v=BHew18YmPYI
+Version 2 w/ No clamps: https://www.youtube.com/watch?v=BHew18YmPYI
 
 Files available for non-commercial use, for other licensing arrangements, please get in touch.
 Amazon link is affiliate.
