@@ -1,4 +1,7 @@
 # DustCollector-DC0
+
+![image] https://github.com/JeremySCook/DustCollector-DC0/blob/master/logo-template-1-clearwalker3-dust-collector-continue-2.jpg
+
 Dust collector meant for CNC use with a Rigid vac and DeWalt 611 Spindle https://amzn.to/2FNIMl5 (Amazon) labeled as "JSCook-DC0" to signify this is the initial "0" version.
 
 Attachment meant for use with a small shop vac is also available, and if you need another size, let me know - hi@jeremyscook.com or on Twitter @JeremySCook - and I will try to accomodate.
