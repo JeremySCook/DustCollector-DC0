@@ -1,3 +1,5 @@
+[![Tech Adjacent](https://img.shields.io/badge/Tech%20Adjacent%20With%20Jeremy%20Cook-[Substack]-blue?style=flat-square&logo=substack)](https://techadjacent.substack.com/)
+
 # DustCollector-DC0
 
 ![image](logo-template-1-clearwalker3-dust-collector-continue-2.jpg)
@@ -17,3 +19,5 @@ Version 1 build video: https://www.youtube.com/watch?v=WIhFcK5mLU0
 Version 2 w/ No clamps: https://www.youtube.com/watch?v=BHew18YmPYI
 
 Amazon links are affiliate.
+
+[![Tech Adjacent](https://img.shields.io/badge/Tech%20Adjacent%20With%20Jeremy%20Cook-[Substack]-blue?style=flat-square&logo=substack)](https://techadjacent.substack.com/)
